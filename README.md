@@ -3,6 +3,13 @@
 Site estático da loja **Donna Valentim** (moda feminina Slim e Plus — "Bom Gosto e Preço Justo"),
 sem build: basta abrir `index.html` ou servir a pasta com qualquer servidor estático.
 
+## Publicação
+
+- **Site no ar:** https://ddesites.github.io/donna-valentim/
+- **Repositório:** https://github.com/DDESites/donna-valentim (GitHub Pages, branch `main`)
+- Para atualizar: edite os arquivos, depois `git add -A && git commit -m "..." && git push` —
+  o Pages republica sozinho em ~1 minuto.
+
 ## Dados da marca usados no site
 
 Coletados do Instagram oficial [@donna.valentim](https://www.instagram.com/donna.valentim/)
